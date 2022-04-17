@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+
+header a{
+  text-decoration: none;
+}
+
+.right a{
+  margin-left: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.left a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.logo{
+  width: 200px;
+}
+
+
+#green{
+  background-color: green;
+}
+
+#red{
+  background-color: red;
+}
+
+#blue{
+  background-color: blue;
+}
+
+.Amazon{
+  color: #333;
+}
+
+.Ebay{
+  color: yellow;
+}
+
+.Aliexpress{
+  color: orange;
+}
+
+
+ul{
+  list-style: none;
+  text-align: left  ;
+}
